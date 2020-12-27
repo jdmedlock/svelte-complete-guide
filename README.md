@@ -17,3 +17,4 @@ revisited later with no additional information included from later sections.
 | Course Section | Branch |
 |:---------------|:-------|
 | Section 2: Base Syntax & Core Features | feature/section-2 |
+| Section 3: Working with Conditionals & Loops | feature/section-3 |
