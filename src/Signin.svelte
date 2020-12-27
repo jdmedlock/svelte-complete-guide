@@ -10,7 +10,7 @@
   const removePassword = (event) => {
     const passwordIndex = passwords.indexOf(event.target.innerText)
     passwords.splice(passwordIndex, 1)
-    passwords = passwords
+    passwords = passwords // Required to force rerender
   }
 </script>
 
